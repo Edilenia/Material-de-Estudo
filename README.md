@@ -7,6 +7,7 @@ O objetivo é facilitar e reunir em um só lugar os materiais de estudo.
 - Modelagem ordenada com R https://www.tmwr.org/
 - R Graphics Cookbook https://r-graphics.org/index.html
 - Programando em Shiny https://programando-em-shiny.curso-r.com/
+- Ciência de Dados em R (Curso-r) https://livro.curso-r.com/index.html
 
 
 ### ggplot
@@ -24,9 +25,15 @@ O objetivo é facilitar e reunir em um só lugar os materiais de estudo.
 - Shiny https://shiny.posit.co/
 - Shiny education https://rstudio-education.github.io/shiny-course/
 
-###  Material Git e Github
+## Simulação
+### package SimDesign 
+- Introduction to the SimDesign https://cran.r-project.org/web/packages/SimDesign/vignettes/SimDesign-intro.html
+### Livros
+- Algoritimos Numericos https://ecivilufes.files.wordpress.com/2011/03/algoritimos.pdf
+
+##  Material Git e Github
 - Happy Git and GitHub for the useR https://happygitwithr.com/
 
-###  Material sobre Rhino (Pacote de desenvolvimento)
+##  Material sobre Rhino (Pacote de desenvolvimento)
 - Rhino https://appsilon.github.io/rhino/index.html
 - https://rhinoverse.dev/#shiny-i18n
