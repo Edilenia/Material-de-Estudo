@@ -8,6 +8,11 @@ O objetivo é facilitar e reunir em um só lugar os materiais de estudo.
 - R Graphics Cookbook https://r-graphics.org/index.html
 - Programando em Shiny https://programando-em-shiny.curso-r.com/
 - Ciência de Dados em R (Curso-r) https://livro.curso-r.com/index.html
+- R para Estudantes de Graduação https://bookdown.org/yih_huynh/Guide-to-R-Book/
+- Introdução à Linguagem R: seus fundamentos e sua prática https://pedropark99.github.io/Introducao_R/index.html
+
+### Site
+(Curso-r) https://curso-r.com/material/
 
 
 ### ggplot
