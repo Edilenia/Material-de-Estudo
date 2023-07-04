@@ -42,3 +42,8 @@ O objetivo é facilitar e reunir em um só lugar os materiais de estudo.
 ##  Material sobre Rhino (Pacote de desenvolvimento)
 - Rhino https://appsilon.github.io/rhino/index.html
 - https://rhinoverse.dev/#shiny-i18n
+
+  ## Site de cursos
+  - Cursos em videos https://www.cursoemvideo.com/cursos/
+  - Cursos SQL  grátis https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS
+  - Data Science Academy https://www.datascienceacademy.com.br/cursosgratuitos
