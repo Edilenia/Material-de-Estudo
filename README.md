@@ -10,7 +10,8 @@ O objetivo é facilitar e reunir em um só lugar os materiais de estudo.
 - Ciência de Dados em R (Curso-r) https://livro.curso-r.com/index.html
 - R para Estudantes de Graduação https://bookdown.org/yih_huynh/Guide-to-R-Book/
 - Introdução à Linguagem R: seus fundamentos e sua prática https://pedropark99.github.io/Introducao_R/index.html
--Criação de sites bookdown https://bookdown.org/yihui/blogdown/
+- Criação de sites bookdown https://bookdown.org/yihui/blogdown/
+- Inserir código de erro no R https://bookdown.org/rdpeng/RProgDA/error-handling-and-generation.html
 
 ### Site
 (Curso-r) https://curso-r.com/material/
