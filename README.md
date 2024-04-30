@@ -49,3 +49,7 @@ O objetivo é facilitar e reunir em um só lugar os materiais de estudo.
   - Cursos em videos https://www.cursoemvideo.com/cursos/
   - Cursos SQL  grátis https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS
   - Data Science Academy https://www.datascienceacademy.com.br/cursosgratuitos
+ 
+## Escrita cientifica
+- Portal da Escrita Científica USP São Carlos - https://escritacientifica.sc.usp.br/escrita/ferramentas-escrita/ 
+- Cursos de Escrita Científica - http://zucoescrita.com
